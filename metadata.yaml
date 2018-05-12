@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/469
     wikipedia: http://en.wikipedia.org/wiki/Mikhail_Lermontov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39623#Der-Held-unserer-ZeitKaukasische-Lebensbilder
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2012-05-05'
 gutenberg_type: Text
