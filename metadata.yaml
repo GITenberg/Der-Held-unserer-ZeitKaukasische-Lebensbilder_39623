@@ -1,0 +1,41 @@
+_repo: Der-Held-unserer-ZeitKaukasische-Lebensbilder_39623
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Boltz, August
+    birthdate: 1819
+    deathdate: 1907
+    gutenberg_agent_id: '40118'
+    url: http://www.gutenberg.org/2009/agents/40118
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lermontov, Mikhail Iurevich
+    aliases:
+    - Lermontov, Mikhayil Yurevich
+    - Лермонтов, Михаил Юрьевич
+    birthdate: 1814
+    deathdate: 1841
+    gutenberg_agent_id: '469'
+    url: http://www.gutenberg.org/2009/agents/469
+    wikipedia: http://en.wikipedia.org/wiki/Mikhail_Lermontov
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2012-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39623'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Caucasus -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Russia -- History, Military -- 1801-1917 -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Russia -- Social life and customs -- 1533-1917 -- Fiction'
+title: 'Der Held unserer Zeit: Kaukasische Lebensbilder'
+url: http://www.gutenberg.org/ebooks/39623
